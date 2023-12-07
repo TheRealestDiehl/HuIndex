@@ -1,2 +1,2 @@
 # HuIndex
-dictionary for 2hu DnD
+# dictionary for 2hu DnD
